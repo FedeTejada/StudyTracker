@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Linters and cache
+.ruff_cache/
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Personal academic records
+*.xlsx
+*.xls
