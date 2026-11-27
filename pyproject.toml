@@ -7,7 +7,6 @@ authors = [
     { name = "Fede", email = "tejafede@gmail.com" }
 ]
 requires-python = ">=3.13"
-<<<<<<< HEAD
 dependencies = [
     "pytest>=9.2.0",
     "ruff>=0.17.6",
